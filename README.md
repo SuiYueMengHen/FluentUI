@@ -427,3 +427,7 @@ All text/background combinations maintain a minimum contrast ratio of **4.5:1**:
 | `md` | 12–16px | Between groups |
 | `lg` | 20–24px | Section spacing |
 | `xl` | 32–40px | Page margins |
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
